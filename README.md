@@ -28,6 +28,6 @@ C. [A CONFIRMAR, TENTAR RENOMEAR DO 2C) Escrevendo código em Ruby no navegador
 
 ### 4. Ruby Basics 1
 
-A. Aula + Exercícios
+[A. Aula + Exercícios](4/4.A.md)
 
-B. Correção dos exercícios
+[B. Correção dos exercícios](4/4.B.md)
