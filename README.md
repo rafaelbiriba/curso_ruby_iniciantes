@@ -32,8 +32,14 @@ C. [A CONFIRMAR, TENTAR RENOMEAR DO 2C) Escrevendo código em Ruby no navegador
 
 [B. Correção dos exercícios](4/4.B.md)
 
-### 5. Ruby Basics 2
+### 5. Ruby Basics 2 - Array
 
 [A. Aula + Exercícios](5/5.A.md)
 
 [B. Correção dos exercícios](5/5.B.md)
+
+### 6. Ruby Basics 3 - Hash
+
+[A. Aula + Exercícios](6/6.A.md)
+
+[B. Correção dos exercícios](6/6.B.md)

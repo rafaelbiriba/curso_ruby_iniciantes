@@ -1,10 +1,5 @@
-exemplo = {
-  fora1: {
-    dentro1: "1"
-  }
-}
+exemplo = [[1,2,["a", "b"]], [3,4,["c", "d"]]]
 
-exemplo[:fora2] = {}
-exemplo[:fora2][:dentro2] = "2"
 
-puts exemplo
+puts "#{exemplo[1][0]}#{exemplo[0][2][0]}#{exemplo[0][1]}#{exemplo[1][2][1]}"
+# 3a2d

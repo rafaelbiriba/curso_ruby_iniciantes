@@ -1,7 +1,4 @@
-lista_compras = {
-  rafael: ["Banana", "Morango"],
-  carlos: ["Laranja", "Abacaxi"]
-}
+exemplo = [["a","b"], ["c","d"], ["e", "f"]]
 
-puts "Rafael vai comprar #{lista_compras[:rafael]}"
-puts "Carlos vai comprar #{lista_compras[:carlos]}"
+puts "#{exemplo[2][1]}#{exemplo[0][0]}#{exemplo[1][0]}#{exemplo[0][0]}"
+# faca
