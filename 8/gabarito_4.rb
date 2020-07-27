@@ -4,6 +4,7 @@ procurar_por = "Rodolfo"
 agenda.each do |contato|
   if contato[:nome] == procurar_por
     puts "Nome: #{contato[:nome]} - Telefone: #{contato[:telefone]}"
+    break
   else
     next
   end
