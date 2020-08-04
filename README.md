@@ -1,7 +1,7 @@
 # Curso de Ruby para Iniciantes
 
-## Curso ainda em montagem e gravação (youtube).
+## Para mais detalhes das aulas, vídeos e exercícios
 
-## Se inscreva no meu canal para receber atualização: https://www.youtube.com/c/RafaelBiriba
+### Acesse:
 
-## Volte mais tarde :)
+http://cursoprogramacao.rafaelbiriba.com/
